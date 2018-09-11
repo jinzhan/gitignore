@@ -71,3 +71,18 @@ typings/
 
 # Serverless directories
 .serverless
+
+# other stuff
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE configurations
+.idea
+.vscode
+
+# build assets
+output
+dist
+dll
